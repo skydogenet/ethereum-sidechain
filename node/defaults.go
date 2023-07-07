@@ -38,7 +38,7 @@ const (
 	DefaultAuthPort    = 8551        // Default port for the authenticated apis
 
 	DefaultMainHost     = "localhost" // Default mainchain hostname
-	DefaultMainPort     = 18443       // Default mainchain port
+	DefaultMainPort     = 8332       // Default mainchain port
 	DefaultMainUser     = "user"      // Default mainchain user
 	DefaultMainPassword = "password"  // Default mainchain password
 )
