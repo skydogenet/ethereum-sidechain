@@ -20,7 +20,7 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 )
 
-const THIS_SIDECHAIN = 6
+const THIS_SIDECHAIN = 1
 
 // A publicly known "private key" to the treasury account, that holds 21M BTC.
 // There are special consensus rules for this account.
